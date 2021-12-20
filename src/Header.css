@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    position: sticky;
+    align-items: center;
+    top: 0;
+    width: 100%;
+    height: 56px;
+    background-color: #2874f0;
+
+}
+.img {
+   position: relative;
+   left: -25%;
+}
+.input {
+    position: relative;
+    top: -50px;
+    left: 6%;
+    width: 40vw;
+}
+.login {
+    background-color: white;
+    color: blue;
+    border: 1px white solid;
+    position: relative;
+    top: -50px;
+    left: 10%;
+}
